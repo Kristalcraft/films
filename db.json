@@ -181,5 +181,8 @@
   "hasImax": false,
   "has3D": false,
   "lastSync": "2022-06-04T20:25:13.467694"
-}]
+}],
+  "profile": {
+    "name": "typicode"
+  }
 }
